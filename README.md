@@ -43,9 +43,8 @@ Umar Zaman
 
 ## Version History (BETA)
 
-* 0.2
-    * Various bug fixes and optimizations
-    * UI and navigation for messages list and direct message page created
-      
 * 0.1
     * Initial Release
+    * Various bug fixes and optimizations
+    * UI and navigation for messages list and direct message page created
+    
